@@ -15,7 +15,7 @@
 git clone https://github.com/sonmodx/primo-ts-merge.git
 ```
 
-1. **Go to project folder**
+2. **Go to project folder**
 
 ```bash
 cd primo-ts-merge
