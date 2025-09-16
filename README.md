@@ -12,8 +12,13 @@
 1. **Clone this project**
 
 ```bash
-mkdir merge-sorted-arrays
-cd merge-sorted-arrays
+git clone https://github.com/sonmodx/primo-ts-merge.git
+```
+
+1. **Go to project folder**
+
+```bash
+cd primo-ts-merge
 ```
 
 3. **Install dependencies:**
