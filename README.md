@@ -58,12 +58,3 @@ npm test
 # Run with TypeScript directly (development)
 npm start
 ```
-
-## Repository Access
-
-To get started:
-
-1. Copy all the provided files to your local directory or using `git clone`
-2. Run `npm install` to install dependencies
-3. Run `npm start` to view the result of merge array logic
-4. Run `npm run dev` to test the merge function with all test cases
